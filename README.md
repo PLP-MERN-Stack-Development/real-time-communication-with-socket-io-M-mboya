@@ -70,9 +70,10 @@ Client runs by default on http://localhost:5173
  Deployment Links
 Once deployed, update this section with your live URLs:
 
-Frontend (Netlify): https://your-chat-app.netlify.app
+Frontend (Netlify): https://cha-pro.netlify.app/
+Frontend (Netlify): https://cha-pro.netlify.app/
 
-Backend (Render): https://realtime-chat-server.onrender.com
+Backend (Render): https://real-time-communication-with-socket-io-m-4iam.onrender.com
 
 GitHub Repo: https://github.com/PLP-MERN-Stack-Development/real-time-communication-with-socket-io-M-mboya
 
