@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application (Socket.io)
+#  Real-Time Chat Application (Socket.io)
 
 # Project Overview
 This project is a full-stack **real-time chat application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Socket.io**.  
@@ -18,15 +18,15 @@ Copy code
 ---
 
 # Core Features
-✅ Real-time bidirectional messaging (Socket.io)  
-✅ Global chat room for all users  
-✅ User authentication with username prompt  
-✅ Online/offline status indicators  
-✅ Typing indicators (user is typing...)  
-✅ Private messaging between users  
-✅ Notifications for new messages and user joins/leaves  
-✅ File and image sharing support  
-✅ Light/Dark theme toggle  
+ Real-time bidirectional messaging (Socket.io)  
+ Global chat room for all users  
+ User authentication with username prompt  
+ Online/offline status indicators  
+ Typing indicators (user is typing...)  
+ Private messaging between users  
+ Notifications for new messages and user joins/leaves  
+ File and image sharing support  
+ Light/Dark theme toggle  
 
 ---
 
@@ -68,10 +68,9 @@ npm run dev
 Client runs by default on http://localhost:5173
 
  Deployment Links
-Once deployed, update this section with your live URLs:
 
 Frontend (Netlify): https://cha-pro.netlify.app/
-Frontend (Netlify): https://cha-pro.netlify.app/
+
 
 Backend (Render): https://real-time-communication-with-socket-io-m-4iam.onrender.com
 
@@ -86,7 +85,6 @@ Instant notifications and typing updates
 
 Responsive, mobile-friendly design
 
-Implementation of at least 3 advanced features
 
 # Screenshots
 c:\Users\user\OneDrive\Pictures\Screenshots\Realtime screenshot 1.png
